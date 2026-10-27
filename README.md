@@ -27,6 +27,7 @@ Once deployed, the app lives at: `https://calebhendren.github.io/mediacalc/`
   - Skip link, visible focus rings, ≥ 44 × 44 px touch targets.
   - Every equation has a `role="math"` and a plain-English `aria-label` so screen readers describe the math instead of trying to parse the visual fraction layout.
   - `prefers-reduced-motion` respected.
+- **Light and dark themes.** Follows the browser/OS color scheme: dark by default, and the Chattanooga State light theme (navy, royal blue, orange — shared with MicroGrade) when light is preferred.
 
 ---
 
